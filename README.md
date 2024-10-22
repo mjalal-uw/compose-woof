@@ -10,7 +10,8 @@ This is the starter code for the Woof app project. This project is an opportunit
 
 Recording
 ------------
-https://github.com/user-attachments/assets/b03aa716-b5b2-41a5-92d4-2f205edd33ed
+https://github.com/user-attachments/assets/77f4fa5e-c580-4c0b-b3c3-7d9e48ccfba9
+
 
 Pre-requisites
 --------------
