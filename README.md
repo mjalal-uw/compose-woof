@@ -13,7 +13,7 @@ Recording
 https://github.com/user-attachments/assets/77f4fa5e-c580-4c0b-b3c3-7d9e48ccfba9
 
 
-Pre-requisites
+Concepts Covered
 --------------
 
 - Rows/Columns
