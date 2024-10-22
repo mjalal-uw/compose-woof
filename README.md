@@ -8,6 +8,10 @@ Introduction
 
 This is the starter code for the Woof app project. This project is an opportunity for you to learn Material3 and reinforce the concepts you've learned so far in Android Basics with Compose.
 
+Recording
+------------
+https://github.com/user-attachments/assets/b03aa716-b5b2-41a5-92d4-2f205edd33ed
+
 Pre-requisites
 --------------
 
